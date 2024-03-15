@@ -1,0 +1,4 @@
+node_modules
+dist/
+src/_config/db.ts
+src/_config/jwt.ts
